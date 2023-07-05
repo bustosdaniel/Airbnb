@@ -11,7 +11,7 @@ export const information = [
   },
   {
     id: 2,
-    img: 'https://media.wired.com/photos/59331c9f4cd5ce6f96c0c5a1/3:2/w_1600%2Cc_limit/airbnb.jpg',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ532xZ2BfqYzYf71pJsd6L5am4z-ZM-gsXOA&usqp=CAU',
     host: '',
     title: 'Private room',
     rating: '4.25',
