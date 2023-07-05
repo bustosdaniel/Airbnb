@@ -1,37 +1,21 @@
 <!-- Please update value in the {}  -->
+# Airbnb - Windbnb
 
-<h1 align="center"> Airbnb - Windbnb</h1>
+This project is a simplified clone of the Airbnb website. It allows users to search for accommodations in different locations and filter the search results based on various criteria.
 
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
+## Features
 
-<div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      # Airbnb Clone
-      This project is a simplified clone of the Airbnb website. It allows users to search for accommodations in different locations and filter the search results based on various criteria.
-      ## Features
-      - Location Search: Users can select a location from a predefined list of options.
-      - Guests Selection: Users can specify the number of guests for their stay.
-      - Search Modal: The search functionality is presented in a modal window that can be opened and closed.
-      - Display of Selected Options: The selected location and total number of guests are displayed in the navigation bar.
-      - Accommodation Listings: The homepage displays a list of accommodations with their respective images, titles, ratings, and descriptions.
-      ## Technologies Used
-      - React: A JavaScript library for building user interfaces.
-      - Material-UI: A popular React UI component library that provides pre-designed components.
-      - React Hooks: Used to manage state and handle side effects in functional components.
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD">
-      Challenge
-    </a>
-  </h3>
-</div>
+- Location Search: Users can select a location from a predefined list of options.
+- Guests Selection: Users can specify the number of guests for their stay.
+- Search Modal: The search functionality is presented in a modal window that can be opened and closed.
+- Display of Selected Options: The selected location and total number of guests are displayed in the navigation bar.
+- Accommodation Listings: The homepage displays a list of accommodations with their respective images, titles, ratings, and descriptions.
+
+## Technologies Used
+
+- React: A JavaScript library for building user interfaces.
+- Material-UI: A popular React UI component library that provides pre-designed components.
+- React Hooks: Used to manage state and handle side effects in functional components.
 
 <!-- TABLE OF CONTENTS -->
 
